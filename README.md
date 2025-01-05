@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Rhuan Matavelli
+# 👩🏻‍💻 Rhuan Matavelli Amaral
 
 Me chamo Rhuan Matavelli Amara, tenho 17 anos e sou natural de Belo Horizonte. Estou Concluindo o ensino médio no Cotemig, com o curso técnico em informática.
 
