@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Rhuan Matavelli
 
-Me chamo Rhuan Matavelli Amaral, tenho 18 anos e sou natural de Belo Horizonte. Estou Concluindo o ensino médio no Cotemig, com o curso técnico em informática.
+Me chamo Rhuan Matavelli Amaral, tenho 18 anos e sou natural de Belo Horizonte. Concluí o ensino médio no Cotemig (RAC), e atualmente curso Ciência de Dados e Inteligência Artificial no Ibmec
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhuan-matavelli/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/md.rhuan/)
