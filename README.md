@@ -26,6 +26,8 @@ Me chamo Rhuan Matavelli Amaral, tenho 18 anos e sou natural de Belo Horizonte. 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 
+<a href="https://i.icoziv.workers.dev" title="Open Icoziv"><img src="https://i.icoziv.workers.dev/https://raw.githubusercontent.com/thuongtruong109/icoziv/main/icons?i=mysql-dark" alt="Icoziv-icons"></a>
+
 <br/>
 <br/>
 
