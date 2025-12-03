@@ -15,24 +15,10 @@ Me chamo Rhuan Matavelli Amaral, tenho 18 anos e sou natural de Belo Horizonte. 
   </a>
 </p>
 
-<br/>
-<br/>
-
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MdRhuan&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div align="center">
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdRhuan&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=MdRhuan&theme=dark&border_radius=21&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=500&card_height=190)](https://git.io/streak-stats)
+
+</div>
